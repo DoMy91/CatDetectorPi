@@ -7,5 +7,5 @@ Smart cat detector for Raspberry Pi. With a telegram bot interfaced with the Ras
 </ul>
 Photos and videos are stored on Dropbox in dedicated folders and a Lifx lamp is controlled to also allow monitoring and identification in low light conditions.
 
-(Details in presentation.pdf)
+[Details](presentation.pdf)
 
